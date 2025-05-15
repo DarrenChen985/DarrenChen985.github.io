@@ -6,8 +6,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+      
+陈淡   助理研究员  E-mail: cd@fzu.edu.cn
+2004.9-2008.6， 福州大学，通信工程系， 本科
+2008.9-2011.6， 福州大学，通信工程系， 硕士
+2011.7-至今，    福州大学物理与信息工程学院，助理研究员
+研究方向：      嵌入式系统、计算机视觉、工业物联网
+![image](https://github.com/user-attachments/assets/298c80b9-ab86-4573-b35d-8df1369f52f0)
+!
 
 A data-driven personal website
 ======
