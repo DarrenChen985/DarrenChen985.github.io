@@ -6,14 +6,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
+![image](https://github.com/user-attachments/assets/e05854c8-c248-4d52-98f2-670d749a90bd)
       
 陈淡   助理研究员  E-mail: cd@fzu.edu.cn
 2004.9-2008.6， 福州大学，通信工程系， 本科
 2008.9-2011.6， 福州大学，通信工程系， 硕士
 2011.7-至今，    福州大学物理与信息工程学院，助理研究员
 研究方向：      嵌入式系统、计算机视觉、工业物联网
-![image](https://github.com/user-attachments/assets/298c80b9-ab86-4573-b35d-8df1369f52f0)
-!
+
 
 A data-driven personal website
 ======
