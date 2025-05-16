@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![image](https://github.com/user-attachments/assets/e05854c8-c248-4d52-98f2-670d749a90bd)
       
 陈淡   助理研究员  E-mail: cd@fzu.edu.cn  
 2004.9-2008.6， 福州大学，通信工程系， 本科  
